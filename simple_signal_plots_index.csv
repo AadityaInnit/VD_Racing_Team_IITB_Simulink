@@ -1,0 +1,145 @@
+RecordedSignal,PlotTitle,Units,Channels,PDFPage
+diagBody.BdyFrm.Cg.AngVel.r,Yaw rate (vehicle axis),deg/s,1,2
+diagBody.InertFrm.Cg.Ang.phi,Roll angle,deg,1,2
+diagBody.BdyFrm.Cg.AngVel.p,Roll rate (vehicle axis),deg/s,1,2
+diagBody.InertFrm.Cg.Ang.theta,Pitch angle,deg,1,2
+diagBody.BdyFrm.Cg.AngVel.q,Pitch rate (vehicle axis),deg/s,1,2
+diagBody.InertFrm.Cg.Ang.psi,Yaw / heading angle,deg,1,2
+diagBody.BdyFrm.Cg.Vel.xdot,Longitudinal velocity,m/s,1,3
+diagBody.BdyFrm.Cg.Acc.ax,Longitudinal acceleration,m/s^2,1,3
+diagBody.BdyFrm.Cg.Vel.ydot,Lateral velocity,m/s,1,3
+diagBody.BdyFrm.Cg.Acc.ay,Lateral acceleration,m/s^2,1,3
+diagBody.BdyFrm.Cg.Vel.zdot,Vertical velocity (vehicle axis),m/s,1,3
+diagBody.BdyFrm.Cg.Acc.az,Vertical acceleration (vehicle axis),m/s^2,1,3
+diagBody.BdyFrm.Cg.Ang.Beta,Vehicle sideslip angle,deg,1,4
+diagBody.InertFrm.Cg.Disp.Z,Vehicle center-of-mass vertical position (track axis),m,1,4
+diagLapTimes,Recorded lap timers,s,4,4
+logsout.Acc,Accelerator command,Fraction of full command,1,4
+logsout.Decel,Brake command,Fraction of full command,1,4
+logsout.unnamed_4,Steering command (normalized),Normalized command,1,4
+logsout.TotalBattCurr,Total battery current,A,1,5
+logsout.MtrPwrkW,Mechanical motor power,kW,4,5
+logsout.MtrTrq,Delivered motor torque,N*m,4,5
+logsout.GearCmd,Requested gear,Gear number,1,5
+diagBody.BdyFrm.Cg.Vel.xdot,Longitudinal velocity - first 3 seconds,m/s,1,5
+diagBody.BdyFrm.Cg.Acc.ay,Lateral acceleration in g,g,1,5
+diagWheel.Kappa,Wheel slip ratio - all four wheels,Dimensionless,4,6
+diagWheel.Kappa,Wheel slip ratio - front left,Dimensionless,1,6
+diagWheel.Kappa,Wheel slip ratio - front right,Dimensionless,1,6
+diagWheel.Kappa,Wheel slip ratio - rear left,Dimensionless,1,6
+diagWheel.Kappa,Wheel slip ratio - rear right,Dimensionless,1,6
+diagWheel.Kappa,Wheel slip ratio - first 3 seconds,Dimensionless,4,6
+diagWheel.Omega,Wheel angular velocity - all four wheels,rad/s,4,7
+diagWheel.Omega,Wheel angular velocity - front left,rad/s,1,7
+diagWheel.Omega,Wheel angular velocity - front right,rad/s,1,7
+diagWheel.Omega,Wheel angular velocity - rear left,rad/s,1,7
+diagWheel.Omega,Wheel angular velocity - rear right,rad/s,1,7
+diagWheel.Omega,Wheel angular velocity - first 3 seconds,rad/s,4,7
+diagWheel.Fx,Tire longitudinal force (tire axes) - all four wheels,N,4,8
+diagWheel.Fx,Tire longitudinal force (tire axes) - front left,N,1,8
+diagWheel.Fx,Tire longitudinal force (tire axes) - front right,N,1,8
+diagWheel.Fx,Tire longitudinal force (tire axes) - rear left,N,1,8
+diagWheel.Fx,Tire longitudinal force (tire axes) - rear right,N,1,8
+diagWheel.Fx,Tire longitudinal force (tire axes) - first 3 seconds,N,4,8
+diagWheel.Fy,Tire lateral force (tire axes) - all four wheels,N,4,9
+diagWheel.Fy,Tire lateral force (tire axes) - front left,N,1,9
+diagWheel.Fy,Tire lateral force (tire axes) - front right,N,1,9
+diagWheel.Fy,Tire lateral force (tire axes) - rear left,N,1,9
+diagWheel.Fy,Tire lateral force (tire axes) - rear right,N,1,9
+diagWheel.Fy,Tire lateral force (tire axes) - first 3 seconds,N,4,9
+diagWheel.Fz,Tire vertical force at axle (tire axes) - all four wheels,N,4,10
+diagWheel.Fz,Tire vertical force at axle (tire axes) - front left,N,1,10
+diagWheel.Fz,Tire vertical force at axle (tire axes) - front right,N,1,10
+diagWheel.Fz,Tire vertical force at axle (tire axes) - rear left,N,1,10
+diagWheel.Fz,Tire vertical force at axle (tire axes) - rear right,N,1,10
+diagWheel.Fz,Tire vertical force at axle (tire axes) - first 3 seconds,N,4,10
+diagWheel.GndFz,Tire load on the road - all four wheels,N,4,11
+diagWheel.GndFz,Tire load on the road - front left,N,1,11
+diagWheel.GndFz,Tire load on the road - front right,N,1,11
+diagWheel.GndFz,Tire load on the road - rear left,N,1,11
+diagWheel.GndFz,Tire load on the road - rear right,N,1,11
+diagWheel.GndFz,Tire load on the road - first 3 seconds,N,4,11
+diagWheel.AxlTrq,Torque applied to wheel axle - all four wheels,N*m,4,12
+diagWheel.AxlTrq,Torque applied to wheel axle - front left,N*m,1,12
+diagWheel.AxlTrq,Torque applied to wheel axle - front right,N*m,1,12
+diagWheel.AxlTrq,Torque applied to wheel axle - rear left,N*m,1,12
+diagWheel.AxlTrq,Torque applied to wheel axle - rear right,N*m,1,12
+diagWheel.AxlTrq,Torque applied to wheel axle - first 3 seconds,N*m,4,12
+diagWheel.WhlTrq,Tire contact torque about rolling axis - all four wheels,N*m,4,13
+diagWheel.WhlTrq,Tire contact torque about rolling axis - front left,N*m,1,13
+diagWheel.WhlTrq,Tire contact torque about rolling axis - front right,N*m,1,13
+diagWheel.WhlTrq,Tire contact torque about rolling axis - rear left,N*m,1,13
+diagWheel.WhlTrq,Tire contact torque about rolling axis - rear right,N*m,1,13
+diagWheel.WhlTrq,Tire contact torque about rolling axis - first 3 seconds,N*m,4,13
+diagWheel.BrkTrq,Wheel brake torque - all four wheels,N*m,4,14
+diagWheel.BrkTrq,Wheel brake torque - front left,N*m,1,14
+diagWheel.BrkTrq,Wheel brake torque - front right,N*m,1,14
+diagWheel.BrkTrq,Wheel brake torque - rear left,N*m,1,14
+diagWheel.BrkTrq,Wheel brake torque - rear right,N*m,1,14
+diagWheel.BrkTrq,Wheel brake torque - first 3 seconds,N*m,4,14
+diagWheel.Mz,Tire aligning moment (not steering-rack feedback) - all four wheels,N*m,4,15
+diagWheel.Mz,Tire aligning moment (not steering-rack feedback) - front left,N*m,1,15
+diagWheel.Mz,Tire aligning moment (not steering-rack feedback) - front right,N*m,1,15
+diagWheel.Mz,Tire aligning moment (not steering-rack feedback) - rear left,N*m,1,15
+diagWheel.Mz,Tire aligning moment (not steering-rack feedback) - rear right,N*m,1,15
+diagWheel.Mz,Tire aligning moment (not steering-rack feedback) - first 3 seconds,N*m,4,15
+diagSusp.Height,Suspension deflection (recorded relative height) - all four wheels,mm,4,16
+diagSusp.Height,Suspension deflection (recorded relative height) - front left,mm,1,16
+diagSusp.Height,Suspension deflection (recorded relative height) - front right,mm,1,16
+diagSusp.Height,Suspension deflection (recorded relative height) - rear left,mm,1,16
+diagSusp.Height,Suspension deflection (recorded relative height) - rear right,mm,1,16
+diagSusp.Height,Suspension deflection (recorded relative height) - first 3 seconds,mm,4,16
+diagWheel.RadialDeflct,Tire radial compression - all four wheels,mm,4,17
+diagWheel.RadialDeflct,Tire radial compression - front left,mm,1,17
+diagWheel.RadialDeflct,Tire radial compression - front right,mm,1,17
+diagWheel.RadialDeflct,Tire radial compression - rear left,mm,1,17
+diagWheel.RadialDeflct,Tire radial compression - rear right,mm,1,17
+diagWheel.RadialDeflct,Tire radial compression - first 3 seconds,mm,4,17
+diagWheel.Alpha,Tire slip angle - all four wheels,deg,4,18
+diagWheel.Alpha,Tire slip angle - front left,deg,1,18
+diagWheel.Alpha,Tire slip angle - front right,deg,1,18
+diagWheel.Alpha,Tire slip angle - rear left,deg,1,18
+diagWheel.Alpha,Tire slip angle - rear right,deg,1,18
+diagWheel.Alpha,Tire slip angle - first 3 seconds,deg,4,18
+diagSusp.Toe,Suspension toe / steering angle - all four wheels,deg,4,19
+diagSusp.Toe,Suspension toe / steering angle - front left,deg,1,19
+diagSusp.Toe,Suspension toe / steering angle - front right,deg,1,19
+diagSusp.Toe,Suspension toe / steering angle - rear left,deg,1,19
+diagSusp.Toe,Suspension toe / steering angle - rear right,deg,1,19
+diagSusp.Toe,Suspension toe / steering angle - first 3 seconds,deg,4,19
+diagWheel.Gamma,Camber angle supplied to tire - all four wheels,deg,4,20
+diagWheel.Gamma,Camber angle supplied to tire - front left,deg,1,20
+diagWheel.Gamma,Camber angle supplied to tire - front right,deg,1,20
+diagWheel.Gamma,Camber angle supplied to tire - rear left,deg,1,20
+diagWheel.Gamma,Camber angle supplied to tire - rear right,deg,1,20
+diagWheel.Gamma,Camber angle supplied to tire - first 3 seconds,deg,4,20
+diagWheel.Vx,Wheel longitudinal velocity (tire axes) - all four wheels,m/s,4,21
+diagWheel.Vx,Wheel longitudinal velocity (tire axes) - front left,m/s,1,21
+diagWheel.Vx,Wheel longitudinal velocity (tire axes) - front right,m/s,1,21
+diagWheel.Vx,Wheel longitudinal velocity (tire axes) - rear left,m/s,1,21
+diagWheel.Vx,Wheel longitudinal velocity (tire axes) - rear right,m/s,1,21
+diagWheel.Vx,Wheel longitudinal velocity (tire axes) - first 3 seconds,m/s,4,21
+diagWheel.Vy,Wheel lateral velocity (tire axes) - all four wheels,m/s,4,22
+diagWheel.Vy,Wheel lateral velocity (tire axes) - front left,m/s,1,22
+diagWheel.Vy,Wheel lateral velocity (tire axes) - front right,m/s,1,22
+diagWheel.Vy,Wheel lateral velocity (tire axes) - rear left,m/s,1,22
+diagWheel.Vy,Wheel lateral velocity (tire axes) - rear right,m/s,1,22
+diagWheel.Vy,Wheel lateral velocity (tire axes) - first 3 seconds,m/s,4,22
+diagWheel.zdot,Wheel vertical velocity (tire frame) - all four wheels,m/s,4,23
+diagWheel.zdot,Wheel vertical velocity (tire frame) - front left,m/s,1,23
+diagWheel.zdot,Wheel vertical velocity (tire frame) - front right,m/s,1,23
+diagWheel.zdot,Wheel vertical velocity (tire frame) - rear left,m/s,1,23
+diagWheel.zdot,Wheel vertical velocity (tire frame) - rear right,m/s,1,23
+diagWheel.zdot,Wheel vertical velocity (tire frame) - first 3 seconds,m/s,4,23
+diagWheel.Re,Effective tire rolling radius - all four wheels,mm,4,24
+diagWheel.Re,Effective tire rolling radius - front left,mm,1,24
+diagWheel.Re,Effective tire rolling radius - front right,mm,1,24
+diagWheel.Re,Effective tire rolling radius - rear left,mm,1,24
+diagWheel.Re,Effective tire rolling radius - rear right,mm,1,24
+diagWheel.Re,Effective tire rolling radius - first 3 seconds,mm,4,24
+diagWheel.BrkPrs,Wheel brake pressure - all four wheels,bar,4,25
+diagWheel.BrkPrs,Wheel brake pressure - front left,bar,1,25
+diagWheel.BrkPrs,Wheel brake pressure - front right,bar,1,25
+diagWheel.BrkPrs,Wheel brake pressure - rear left,bar,1,25
+diagWheel.BrkPrs,Wheel brake pressure - rear right,bar,1,25
+diagWheel.BrkPrs,Wheel brake pressure - first 3 seconds,bar,4,25
