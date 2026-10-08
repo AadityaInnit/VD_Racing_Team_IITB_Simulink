@@ -1,0 +1,222 @@
+Signal,Title
+diagBody.InertFrm.Cg.Disp.X,Vehicle center of mass - track X position
+diagBody.InertFrm.Cg.Disp.Y,Vehicle center of mass - track Y position
+diagBody.InertFrm.Cg.Disp.Z,Vehicle center of mass - track Z position
+diagBody.InertFrm.Cg.Vel.Xdot,Vehicle center of mass - track X velocity
+diagBody.InertFrm.Cg.Vel.Ydot,Vehicle center of mass - track Y velocity
+diagBody.InertFrm.Cg.Vel.Zdot,Vehicle center of mass - track Z velocity
+diagBody.InertFrm.Cg.Ang.phi,Roll angle
+diagBody.InertFrm.Cg.Ang.theta,Pitch angle
+diagBody.InertFrm.Cg.Ang.psi,Yaw / heading angle
+diagBody.InertFrm.FrntAxl.Lft.Disp.X,Front-left suspension attachment - track X position
+diagBody.InertFrm.FrntAxl.Lft.Disp.Y,Front-left suspension attachment - track Y position
+diagBody.InertFrm.FrntAxl.Lft.Disp.Z,Front-left suspension attachment - track Z position
+diagBody.InertFrm.FrntAxl.Lft.Vel.Xdot,Front-left suspension attachment - track X velocity
+diagBody.InertFrm.FrntAxl.Lft.Vel.Ydot,Front-left suspension attachment - track Y velocity
+diagBody.InertFrm.FrntAxl.Lft.Vel.Zdot,Front-left suspension attachment - track Z velocity
+diagBody.InertFrm.FrntAxl.Rght.Disp.X,Front-right suspension attachment - track X position
+diagBody.InertFrm.FrntAxl.Rght.Disp.Y,Front-right suspension attachment - track Y position
+diagBody.InertFrm.FrntAxl.Rght.Disp.Z,Front-right suspension attachment - track Z position
+diagBody.InertFrm.FrntAxl.Rght.Vel.Xdot,Front-right suspension attachment - track X velocity
+diagBody.InertFrm.FrntAxl.Rght.Vel.Ydot,Front-right suspension attachment - track Y velocity
+diagBody.InertFrm.FrntAxl.Rght.Vel.Zdot,Front-right suspension attachment - track Z velocity
+diagBody.InertFrm.RearAxl.Lft.Disp.X,Rear-left suspension attachment - track X position
+diagBody.InertFrm.RearAxl.Lft.Disp.Y,Rear-left suspension attachment - track Y position
+diagBody.InertFrm.RearAxl.Lft.Disp.Z,Rear-left suspension attachment - track Z position
+diagBody.InertFrm.RearAxl.Lft.Vel.Xdot,Rear-left suspension attachment - track X velocity
+diagBody.InertFrm.RearAxl.Lft.Vel.Ydot,Rear-left suspension attachment - track Y velocity
+diagBody.InertFrm.RearAxl.Lft.Vel.Zdot,Rear-left suspension attachment - track Z velocity
+diagBody.InertFrm.RearAxl.Rght.Disp.X,Rear-right suspension attachment - track X position
+diagBody.InertFrm.RearAxl.Rght.Disp.Y,Rear-right suspension attachment - track Y position
+diagBody.InertFrm.RearAxl.Rght.Disp.Z,Rear-right suspension attachment - track Z position
+diagBody.InertFrm.RearAxl.Rght.Vel.Xdot,Rear-right suspension attachment - track X velocity
+diagBody.InertFrm.RearAxl.Rght.Vel.Ydot,Rear-right suspension attachment - track Y velocity
+diagBody.InertFrm.RearAxl.Rght.Vel.Zdot,Rear-right suspension attachment - track Z velocity
+diagBody.InertFrm.Hitch.Disp.X,Hitch reference point - track X position
+diagBody.InertFrm.Hitch.Disp.Y,Hitch reference point - track Y position
+diagBody.InertFrm.Hitch.Disp.Z,Hitch reference point - track Z position
+diagBody.InertFrm.Hitch.Vel.Xdot,Hitch reference point - track X velocity
+diagBody.InertFrm.Hitch.Vel.Ydot,Hitch reference point - track Y velocity
+diagBody.InertFrm.Hitch.Vel.Zdot,Hitch reference point - track Z velocity
+diagBody.InertFrm.Geom.Disp.X,Vehicle geometric reference point - track X position
+diagBody.InertFrm.Geom.Disp.Y,Vehicle geometric reference point - track Y position
+diagBody.InertFrm.Geom.Disp.Z,Vehicle geometric reference point - track Z position
+diagBody.InertFrm.Geom.Vel.Xdot,Vehicle geometric reference point - track X velocity
+diagBody.InertFrm.Geom.Vel.Ydot,Vehicle geometric reference point - track Y velocity
+diagBody.InertFrm.Geom.Vel.Zdot,Vehicle geometric reference point - track Z velocity
+diagBody.BdyFrm.Cg.Vel.xdot,Vehicle center of mass - longitudinal velocity (vehicle axes)
+diagBody.BdyFrm.Cg.Vel.ydot,Vehicle center of mass - lateral velocity (vehicle axes)
+diagBody.BdyFrm.Cg.Vel.zdot,Vehicle center of mass - vertical velocity (vehicle axes)
+diagBody.BdyFrm.Cg.Ang.Beta,Vehicle sideslip angle
+diagBody.BdyFrm.Cg.AngVel.p,Roll rate (vehicle axes)
+diagBody.BdyFrm.Cg.AngVel.q,Pitch rate (vehicle axes)
+diagBody.BdyFrm.Cg.AngVel.r,Yaw rate (vehicle axes)
+diagBody.BdyFrm.Cg.Acc.ax,"Vehicle longitudinal acceleration (inertial, vehicle axes)"
+diagBody.BdyFrm.Cg.Acc.ay,"Vehicle lateral acceleration (inertial, vehicle axes)"
+diagBody.BdyFrm.Cg.Acc.az,"Vehicle vertical acceleration (inertial, vehicle axes)"
+diagBody.BdyFrm.Cg.Acc.xddot,Rate of change of longitudinal velocity (rotating vehicle axes)
+diagBody.BdyFrm.Cg.Acc.yddot,Rate of change of lateral velocity (rotating vehicle axes)
+diagBody.BdyFrm.Cg.Acc.zddot,Rate of change of vertical velocity (rotating vehicle axes)
+diagBody.BdyFrm.Cg.AngAcc.pdot,Roll angular acceleration (vehicle axes)
+diagBody.BdyFrm.Cg.AngAcc.qdot,Pitch angular acceleration (vehicle axes)
+diagBody.BdyFrm.Cg.AngAcc.rdot,Yaw angular acceleration (vehicle axes)
+diagBody.BdyFrm.Cg.DCM,Vehicle orientation matrix
+diagBody.BdyFrm.Forces.Body.Fx,Total longitudinal force (vehicle axes)
+diagBody.BdyFrm.Forces.Body.Fy,Total lateral force (vehicle axes)
+diagBody.BdyFrm.Forces.Body.Fz,Total vertical force (vehicle axes)
+diagBody.BdyFrm.Forces.Ext.Fx,External applied longitudinal force (vehicle axes)
+diagBody.BdyFrm.Forces.Ext.Fy,External applied lateral force (vehicle axes)
+diagBody.BdyFrm.Forces.Ext.Fz,External applied vertical force (vehicle axes)
+diagBody.BdyFrm.Forces.FrntAxl.Fx,Front suspension longitudinal force (vehicle axes)
+diagBody.BdyFrm.Forces.FrntAxl.Fy,Front suspension lateral force (vehicle axes)
+diagBody.BdyFrm.Forces.FrntAxl.Fz,Front suspension vertical force (vehicle axes)
+diagBody.BdyFrm.Forces.RearAxl.Fx,Rear suspension longitudinal force (vehicle axes)
+diagBody.BdyFrm.Forces.RearAxl.Fy,Rear suspension lateral force (vehicle axes)
+diagBody.BdyFrm.Forces.RearAxl.Fz,Rear suspension vertical force (vehicle axes)
+diagBody.BdyFrm.Forces.Hitch.Fx,Hitch longitudinal force (vehicle axes)
+diagBody.BdyFrm.Forces.Hitch.Fy,Hitch lateral force (vehicle axes)
+diagBody.BdyFrm.Forces.Hitch.Fz,Hitch vertical force (vehicle axes)
+diagBody.BdyFrm.Forces.Tires.FrntTires.Lft.Fx,Body tire input (unused suspension path) - front left longitudinal force (vehicle axes)
+diagBody.BdyFrm.Forces.Tires.FrntTires.Lft.Fy,Body tire input (unused suspension path) - front left lateral force (vehicle axes)
+diagBody.BdyFrm.Forces.Tires.FrntTires.Lft.Fz,Body tire input (unused suspension path) - front left vertical force (vehicle axes)
+diagBody.BdyFrm.Forces.Tires.FrntTires.Rght.Fx,Body tire input (unused suspension path) - front right longitudinal force (vehicle axes)
+diagBody.BdyFrm.Forces.Tires.FrntTires.Rght.Fy,Body tire input (unused suspension path) - front right lateral force (vehicle axes)
+diagBody.BdyFrm.Forces.Tires.FrntTires.Rght.Fz,Body tire input (unused suspension path) - front right vertical force (vehicle axes)
+diagBody.BdyFrm.Forces.Tires.RearTires.Lft.Fx,Body tire input (unused suspension path) - rear left longitudinal force (vehicle axes)
+diagBody.BdyFrm.Forces.Tires.RearTires.Lft.Fy,Body tire input (unused suspension path) - rear left lateral force (vehicle axes)
+diagBody.BdyFrm.Forces.Tires.RearTires.Lft.Fz,Body tire input (unused suspension path) - rear left vertical force (vehicle axes)
+diagBody.BdyFrm.Forces.Tires.RearTires.Rght.Fx,Body tire input (unused suspension path) - rear right longitudinal force (vehicle axes)
+diagBody.BdyFrm.Forces.Tires.RearTires.Rght.Fy,Body tire input (unused suspension path) - rear right lateral force (vehicle axes)
+diagBody.BdyFrm.Forces.Tires.RearTires.Rght.Fz,Body tire input (unused suspension path) - rear right vertical force (vehicle axes)
+diagBody.BdyFrm.Forces.Drag.Fx,Aerodynamic longitudinal force (vehicle axes)
+diagBody.BdyFrm.Forces.Drag.Fy,Aerodynamic lateral force (vehicle axes)
+diagBody.BdyFrm.Forces.Drag.Fz,Aerodynamic vertical force (vehicle axes)
+diagBody.BdyFrm.Forces.Grvty.Fx,Gravity longitudinal force (vehicle axes)
+diagBody.BdyFrm.Forces.Grvty.Fy,Gravity lateral force (vehicle axes)
+diagBody.BdyFrm.Forces.Grvty.Fz,Gravity vertical force (vehicle axes)
+diagBody.BdyFrm.Moments.Body.Mx,Total roll moment (vehicle axes)
+diagBody.BdyFrm.Moments.Body.My,Total pitch moment (vehicle axes)
+diagBody.BdyFrm.Moments.Body.Mz,Total yaw moment (vehicle axes)
+diagBody.BdyFrm.Moments.Drag.Mx,Aerodynamic roll moment (vehicle axes)
+diagBody.BdyFrm.Moments.Drag.My,Aerodynamic pitch moment (vehicle axes)
+diagBody.BdyFrm.Moments.Drag.Mz,Aerodynamic yaw moment (vehicle axes)
+diagBody.BdyFrm.Moments.Ext.Mx,External applied roll moment (vehicle axes)
+diagBody.BdyFrm.Moments.Ext.My,External applied pitch moment (vehicle axes)
+diagBody.BdyFrm.Moments.Ext.Mz,External applied yaw moment (vehicle axes)
+diagBody.BdyFrm.Moments.Hitch.Mx,Hitch roll moment (vehicle axes)
+diagBody.BdyFrm.Moments.Hitch.My,Hitch pitch moment (vehicle axes)
+diagBody.BdyFrm.Moments.Hitch.Mz,Hitch yaw moment (vehicle axes)
+diagBody.BdyFrm.FrntAxl.Lft.Disp.x,Front-left suspension attachment - longitudinal offset from center of mass
+diagBody.BdyFrm.FrntAxl.Lft.Disp.y,Front-left suspension attachment - lateral offset from center of mass
+diagBody.BdyFrm.FrntAxl.Lft.Disp.z,Front-left suspension attachment - vertical offset from center of mass
+diagBody.BdyFrm.FrntAxl.Lft.Vel.xdot,Front-left suspension attachment - longitudinal velocity (vehicle axes)
+diagBody.BdyFrm.FrntAxl.Lft.Vel.ydot,Front-left suspension attachment - lateral velocity (vehicle axes)
+diagBody.BdyFrm.FrntAxl.Lft.Vel.zdot,Front-left suspension attachment - vertical velocity (vehicle axes)
+diagBody.BdyFrm.FrntAxl.Rght.Disp.x,Front-right suspension attachment - longitudinal offset from center of mass
+diagBody.BdyFrm.FrntAxl.Rght.Disp.y,Front-right suspension attachment - lateral offset from center of mass
+diagBody.BdyFrm.FrntAxl.Rght.Disp.z,Front-right suspension attachment - vertical offset from center of mass
+diagBody.BdyFrm.FrntAxl.Rght.Vel.xdot,Front-right suspension attachment - longitudinal velocity (vehicle axes)
+diagBody.BdyFrm.FrntAxl.Rght.Vel.ydot,Front-right suspension attachment - lateral velocity (vehicle axes)
+diagBody.BdyFrm.FrntAxl.Rght.Vel.zdot,Front-right suspension attachment - vertical velocity (vehicle axes)
+diagBody.BdyFrm.RearAxl.Lft.Disp.x,Rear-left suspension attachment - longitudinal offset from center of mass
+diagBody.BdyFrm.RearAxl.Lft.Disp.y,Rear-left suspension attachment - lateral offset from center of mass
+diagBody.BdyFrm.RearAxl.Lft.Disp.z,Rear-left suspension attachment - vertical offset from center of mass
+diagBody.BdyFrm.RearAxl.Lft.Vel.xdot,Rear-left suspension attachment - longitudinal velocity (vehicle axes)
+diagBody.BdyFrm.RearAxl.Lft.Vel.ydot,Rear-left suspension attachment - lateral velocity (vehicle axes)
+diagBody.BdyFrm.RearAxl.Lft.Vel.zdot,Rear-left suspension attachment - vertical velocity (vehicle axes)
+diagBody.BdyFrm.RearAxl.Rght.Disp.x,Rear-right suspension attachment - longitudinal offset from center of mass
+diagBody.BdyFrm.RearAxl.Rght.Disp.y,Rear-right suspension attachment - lateral offset from center of mass
+diagBody.BdyFrm.RearAxl.Rght.Disp.z,Rear-right suspension attachment - vertical offset from center of mass
+diagBody.BdyFrm.RearAxl.Rght.Vel.xdot,Rear-right suspension attachment - longitudinal velocity (vehicle axes)
+diagBody.BdyFrm.RearAxl.Rght.Vel.ydot,Rear-right suspension attachment - lateral velocity (vehicle axes)
+diagBody.BdyFrm.RearAxl.Rght.Vel.zdot,Rear-right suspension attachment - vertical velocity (vehicle axes)
+diagBody.BdyFrm.Hitch.Disp.x,Hitch reference point - longitudinal offset from center of mass
+diagBody.BdyFrm.Hitch.Disp.y,Hitch reference point - lateral offset from center of mass
+diagBody.BdyFrm.Hitch.Disp.z,Hitch reference point - vertical offset from center of mass
+diagBody.BdyFrm.Hitch.Vel.xdot,Hitch reference point - longitudinal velocity (vehicle axes)
+diagBody.BdyFrm.Hitch.Vel.ydot,Hitch reference point - lateral velocity (vehicle axes)
+diagBody.BdyFrm.Hitch.Vel.zdot,Hitch reference point - vertical velocity (vehicle axes)
+diagBody.BdyFrm.Pwr.Ext,Power from applied forces
+diagBody.BdyFrm.Pwr.Drag,Power absorbed by aerodynamics
+diagBody.BdyFrm.Geom.Disp.x,Vehicle geometric reference point - longitudinal offset from center of mass
+diagBody.BdyFrm.Geom.Disp.y,Vehicle geometric reference point - lateral offset from center of mass
+diagBody.BdyFrm.Geom.Disp.z,Vehicle geometric reference point - vertical offset from center of mass
+diagBody.BdyFrm.Geom.Vel.xdot,Vehicle geometric reference point - longitudinal velocity (vehicle axes)
+diagBody.BdyFrm.Geom.Vel.ydot,Vehicle geometric reference point - lateral velocity (vehicle axes)
+diagBody.BdyFrm.Geom.Vel.zdot,Vehicle geometric reference point - vertical velocity (vehicle axes)
+diagBody.BdyFrm.Geom.Ang.Beta,Vehicle sideslip angle at geometric reference point
+diagLapTimes,Recorded lap timers
+diagSusp.Camber,Suspension camber angle
+diagSusp.Caster,Suspension caster angle
+diagSusp.Toe,Suspension toe / steering angle
+diagSusp.Height,Suspension deflection (recorded relative height)
+diagSusp.Power,Suspension power
+diagSusp.Energy,Suspension stored energy
+diagSusp.dWhlX,Wheel longitudinal offset change
+diagSusp.dWhlY,Wheel lateral offset change
+diagSusp.VehF,Suspension force on vehicle
+diagSusp.VehM,Suspension moment on vehicle
+diagSusp.WhlF,Suspension force on wheel
+diagSusp.WhlV,Wheel velocity from suspension
+diagSusp.WhlAng,Wheel orientation from suspension
+diagWheel.AxlTrq,Torque applied to wheel axle
+diagWheel.Omega,Wheel angular velocity
+diagWheel.Fx,Tire longitudinal force
+diagWheel.Fy,Tire lateral force
+diagWheel.Fz,Tire vertical force at axle
+diagWheel.Mx,Tire overturning moment
+diagWheel.My,Tire rolling-resistance moment
+diagWheel.Mz,Tire aligning moment (not steering-rack feedback)
+diagWheel.Vx,Wheel forward velocity in tire coordinates
+diagWheel.Vy,Wheel lateral velocity in tire coordinates
+diagWheel.Re,Effective tire rolling radius
+diagWheel.Kappa,Wheel slip ratio
+diagWheel.Alpha,Tire slip angle
+diagWheel.a,Tire contact-patch half-length
+diagWheel.b,Tire contact-patch half-width
+diagWheel.RL,Loaded tire radius
+diagWheel.RadialDeflct,Tire radial compression
+diagWheel.WhlTrq,Tire contact torque about rolling axis
+diagWheel.Gamma,Camber angle supplied to tire
+diagWheel.psidot,Tire vertical-axis rotation rate
+diagWheel.BrkTrq,Wheel brake torque
+diagWheel.BrkPrs,Wheel brake pressure
+diagWheel.z,Wheel vertical displacement (tire frame)
+diagWheel.zdot,Wheel vertical velocity (tire frame)
+diagWheel.Gnd,Road height input
+diagWheel.GndFz,Tire load on the road
+diagWheel.Prs,Tire inflation pressure
+logsout.Acc,Accelerator command
+logsout.Decel,Brake command
+logsout.GearCmd,Requested gear
+logsout.unnamed_4,Steering command (normalized)
+logsout.MtrPwrkW,Mechanical motor power
+logsout.BattCurr,Current drawn by each motor
+logsout.TrqLimCmd,Motor torque request after limiting
+logsout.MtrTrq,Delivered motor torque
+logsout.TrqCmd,Requested motor torque
+logsout.TotalBattCurr,Total battery current
+yout.unnamed_1,Mean reported lap time
+yout.unnamed_2,Minimum reported lap time
+diagBody.BdyFrm.Forces.FrntAxl.Lft.Fx,Front suspension - left longitudinal force (vehicle axes)
+diagBody.BdyFrm.Forces.FrntAxl.Lft.Fy,Front suspension - left lateral force (vehicle axes)
+diagBody.BdyFrm.Forces.FrntAxl.Lft.Fz,Front suspension - left vertical force (vehicle axes)
+diagBody.BdyFrm.Forces.FrntAxl.Rght.Fx,Front suspension - right longitudinal force (vehicle axes)
+diagBody.BdyFrm.Forces.FrntAxl.Rght.Fy,Front suspension - right lateral force (vehicle axes)
+diagBody.BdyFrm.Forces.FrntAxl.Rght.Fz,Front suspension - right vertical force (vehicle axes)
+diagBody.BdyFrm.Forces.RearAxl.Lft.Fx,Rear suspension - left longitudinal force (vehicle axes)
+diagBody.BdyFrm.Forces.RearAxl.Lft.Fy,Rear suspension - left lateral force (vehicle axes)
+diagBody.BdyFrm.Forces.RearAxl.Lft.Fz,Rear suspension - left vertical force (vehicle axes)
+diagBody.BdyFrm.Forces.RearAxl.Rght.Fx,Rear suspension - right longitudinal force (vehicle axes)
+diagBody.BdyFrm.Forces.RearAxl.Rght.Fy,Rear suspension - right lateral force (vehicle axes)
+diagBody.BdyFrm.Forces.RearAxl.Rght.Fz,Rear suspension - right vertical force (vehicle axes)
+logsout.<AccelCmd>,Accelerator command (visualization)
+logsout.<DecelCmd>,Brake command (visualization)
+logsout.<SteerCmd>,Steering command (visualization)
+logsout.<ay>,Vehicle lateral acceleration (visualization)
+logsout.<r>,Yaw rate (visualization)
+logsout.<MtrSpd>,Motor rotation speed (visualization)
+logsout.<TransGear>,Transmission gear (visualization)
+logsout.Accxyz,Vehicle acceleration in all three directions
+logsout.xdot_mph,Vehicle forward speed (miles per hour)
+logsout.steer_deg,Steering angle displayed by visualization
